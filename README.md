@@ -9,3 +9,6 @@ Pembayaran Kasir ini digunakan untuk menghitung total belanjaan yang dilakukan o
 -README.md
 -Algoritma.txt
 -Nama.txt
+
+Dikerjakan Oleh :
+- `Khusnul Khatimah - FE2634040`
