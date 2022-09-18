@@ -7,7 +7,6 @@ Pembayaran Kasir ini digunakan untuk menghitung total belanjaan yang dilakukan o
 -Flowchart.drawio
 -Pseudocode.txt
 -README.md
--Algoritma.txt
 -Nama.txt
 
 Dikerjakan Oleh :
